@@ -1,9 +1,9 @@
-Server Performance Stats
-Write a script to analyse basic server performance stats.
+#Server Performance Stats
+####Write a script to analyse basic server performance stats.
 
-Goal of this project is to write a script to analyse server performance stats.
+###Goal of this project is to write a script to analyse server performance stats.
 
-Requirements
+$$$$Requirements
 You are required to write a script server-stats.sh that can analyse basic server performance stats. You should be able to run the script on any Linux server and it should give you the following stats:
 
 Total CPU usage
